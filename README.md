@@ -1,7 +1,7 @@
 Raylib-Chibi
 ============
 
-Rudimentary bindings to [Raylib][raylib] for [Chibi Scheme][chibi].
+Rudimentary (but almost 100% complete) bindings to [Raylib][raylib] for [Chibi Scheme][chibi].
 
 Requirements
 ============
@@ -72,3 +72,6 @@ equipment to work or test with.
 with the slightly modified `chibi-ffi.scm` from Chibi to generate the
 bindings and is thus relatively good documentation about which
 functions are bound.
+
+[raylib]:https://www.raylib.com/
+[chibi]:http://synthcode.com/scheme/chibi
